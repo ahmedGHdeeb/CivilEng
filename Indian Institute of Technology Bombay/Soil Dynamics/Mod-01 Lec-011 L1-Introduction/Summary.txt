@@ -1,0 +1,28 @@
+_Basic Problem in Dynamics:
+Loads are in term of (x, y, z, t), where t is time, so loads are defined with respect to the variation of time
+
+_Are all loads that varies with time can be called Dynamic?
+No, for example when lectures are started the halls with be filled and when collages closes their doors and all leave
+this called a Live Load
+
+_Dynamic loads:
+the loads that change with respect to time and creates vibration in the system inwhcih the load is acting
+
+_Vibration:
+the process of continuous exchange of potential energy to kinetic energy and vice versa
+
+_Period:
+if a vibratory motion repeats itself in equal intervals of time, it is ccalled a periodic motion
+
+_Frequency:
+the numbers of times that the vibrating movement repeats itslef in the Periodic vibration time
+
+_import consepts
+Displacement is related to the stiffness of the material and this is releated to the potential energy
+Acceleration is related to the inertia of the body and this is releated to the kinetic energy
+
+_Basic Components of Vibration:
+Potential Energy -> Displacement <=> Stiffness
+Kinetic Energy -> Acceleration <=> Inertia
+Dissipation / Loss of energy -> Damping
+the sum of the potential and kinetic energy must be constant except if there was losses of energy / Dissipation and its called Damper or Damping

@@ -1,0 +1,5 @@
+_Degrees of Freedom (DOF)
+No of independent co-ordinates required to define the displaced position to all the masses relative to their all positions
+
+_Single degree of freedom (SDOF) system:
+Basic Units are Mass-Spring-Damper and it is called (MSD) model
